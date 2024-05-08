@@ -12,6 +12,7 @@ together to encourage you to self-publish and to warn of the dangers of relying
 on app marketplaces.
 
 <img src="https://github.com/andrewmcwattersandco/app-store-rejections/assets/487078/f1123cf8-cb64-4bd1-92e9-00451b661f0e" width="564" />
+https://twitter.com/TechEmails/status/1631352764247977985
 
 ## Apps
 * **Twilar**  
