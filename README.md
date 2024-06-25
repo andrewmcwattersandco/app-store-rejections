@@ -15,6 +15,11 @@ on app marketplaces.
 https://twitter.com/TechEmails/status/1631352764247977985
 
 ## Apps
+* **iDOS**  
+iDOS 2 emulator gets App Store takedown notice  
+https://www.theverge.com/2021/7/23/22590511/idos-2-emulator-apple-app-store-takedown-notice  
+iDOS 3 waiting for review (rejected)  
+https://litchie.com/2024/04/new-hope
 * **Twilar**  
 Rejected for submitting a macOS version of iOS app  
 https://twitter.com/WildCat_io/status/1788323646278168858
