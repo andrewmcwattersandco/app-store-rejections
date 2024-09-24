@@ -15,6 +15,9 @@ on app marketplaces.
 https://twitter.com/TechEmails/status/1631352764247977985
 
 ## Apps
+* **Halide**, Apple Design Award winning camera app  
+Rejected from the App Store because it doesn’t explain why the camera takes photos  
+https://9to5mac.com/2024/09/24/halide-rejected-from-the-app-store-because-it-doesnt-explain-why-the-camera-takes-photos/
 * **iDOS**  
 iDOS 2 emulator gets App Store takedown notice  
 https://www.theverge.com/2021/7/23/22590511/idos-2-emulator-apple-app-store-takedown-notice  
