@@ -28,7 +28,7 @@ Rejected for submitting a macOS version of iOS app
 https://twitter.com/WildCat_io/status/1788323646278168858
 * **Wheels of Aurelia**
 Developer angry that App Store is removing game that hasn't been updated in 7 years  
-https://appleinsider.com/articles/25/07/15/developer-angry-that-app-store-is-removing-game-that-hasnt-been-updated-in-7-years
+https://appleinsider.com/articles/25/07/15/developer-angry-that-app-store-is-removing-game-that-hasnt-been-updated-in-7-years  
 Developer angry that App Store is removing game that hasn't been updated in 7 yr  
 https://news.ycombinator.com/item?id=44574059
 
